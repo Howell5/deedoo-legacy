@@ -1,7 +1,7 @@
 {
   "name": "@deepseek-ai/dsh-desktop",
   "description": "Desktop shell for DeepSeek Harness",
-  "version": "0.1.5-rc.2",
+  "version": "0.1.5-rc.3",
   "author": "DeepSeek AI",
   "publishConfig": {
     "access": "public"
